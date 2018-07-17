@@ -1,6 +1,6 @@
 
 This project provides a Python API compatible Bluetooth low energy (BLE) smartbands.  
-it's specifically designed to work with Lenovo HX06W but should work with other similiar smartbands.
+it's specifically designed to work with Lenovo HX03W but should work with other similiar smartbands.
 
 Supported Features:  
 - [X] HRM  
@@ -8,7 +8,7 @@ Supported Features:
 - [X] Battery Status  
 - [X] Pedometer
 
-Missing Features:
+Missing Features
 - [ ] Anti-sleep function  
 - [ ] instant messaging Notifications  
 - [ ] Alarm Settings  
