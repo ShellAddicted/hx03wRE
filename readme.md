@@ -40,4 +40,4 @@ use `trigger_battery()` to get the battery charge state, and expect a response i
 use `trigger_pedometer()` to get the battery charge state, and expect a response inside this handler.
 
 
-see examples/ for more details
+see [examples/](https://github.com/ShellAddicted/hx03wRE/tree/master/examples) for more details
