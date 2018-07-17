@@ -1,6 +1,7 @@
 
-This project provides a Python API compatible Bluetooth low energy (BLE) smartbands.  
-it's specifically designed to work with Lenovo HX03W but should work with other similiar smartbands.
+# HX03W
+This project provides a Python API compatible with several Bluetooth low energy (BLE) smartbands.  
+it's specifically designed to work with <b>Lenovo HX03W</b> but should work with other similiar smartbands.
 
 Supported Features:  
 - [X] HRM  
@@ -19,7 +20,7 @@ I will add more features as soon I discover how they works (reverse engineering)
 # Getting Started
 
 ## Clock Settings
-`set_time()` permits to adjust date and time using a `datetime.datetime` object. (timezone is required)
+`set_time(current_time, h12)` permits to adjust date and time using a `datetime.datetime` object. (timezone is required)
 
 
 ## Handlers:
