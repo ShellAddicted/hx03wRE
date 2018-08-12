@@ -1,3 +1,5 @@
+import sys
+sys.path.append("..")
 import logging
 import time
 from hx03w import hx03w
