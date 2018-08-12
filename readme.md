@@ -15,7 +15,7 @@ Missing Features
 - [ ] Alarm Settings  
 - [ ] Vibration Settings  
 
-I will add more features as soon I discover how they works (reverse engineering)
+I will add more features as soon I discover how they works [(reverse engineering)](https://en.wikipedia.org/wiki/Reverse_engineering)
 
 # Getting Started
 
